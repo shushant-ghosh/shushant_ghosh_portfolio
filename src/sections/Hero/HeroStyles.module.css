@@ -1,0 +1,66 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    height: 100dvh;
+    min-height: 500px;
+
+}
+.container .HeroImg{
+    max-width: 200px;
+}
+.container span {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.container span a {
+    margin: 0px;
+}
+.container span a img {
+    width: 30px;
+}
+.container a {
+    width: fit-content;
+    align-self: center;
+}
+.container button {
+    background-color: var(--btn-color);
+    color: var(--btn-text-color);
+    border: none;
+    border-radius: 20px;
+    width: 126px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 0 4px 4px rgb(0, 0, 0,0.25);
+    transition: box-shadow 200ms ease-in-out, transform 200ms ease-in-out;
+}
+.container button:hover {
+    transform: scale(1.05);
+}
+.container button:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 2px rgb(0, 0, 0,0.25);
+}
+.container .colorModeContainer{
+    position: relative;
+}
+.container .colorModeContainer .colorMode{
+position: absolute;
+width: 25px;
+}
+.container .colorModeContainer .colorMode:hover{
+cursor: pointer;
+}
+.container .description {
+    max-width: 25ch;
+    align-self: center;
+}
+.container .info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
