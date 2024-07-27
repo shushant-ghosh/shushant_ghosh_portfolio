@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shushant_ghosh_portfolio/static/css/main.1016f07c.css",
+    "main.js": "/shushant_ghosh_portfolio/static/js/main.b1db327e.js",
+    "static/js/453.47a4bfb9.chunk.js": "/shushant_ghosh_portfolio/static/js/453.47a4bfb9.chunk.js",
+    "static/media/hero-img.png": "/shushant_ghosh_portfolio/static/media/hero-img.74067ca907f7bead6de7.png",
+    "static/media/viberr.png": "/shushant_ghosh_portfolio/static/media/viberr.4ebb07b813407431eef6.png",
+    "static/media/fitlift.png": "/shushant_ghosh_portfolio/static/media/fitlift.71de9fdb5306c1227475.png",
+    "static/media/hipsster.png": "/shushant_ghosh_portfolio/static/media/hipsster.1d01899df1311cb98138.png",
+    "static/media/fresh-burger.png": "/shushant_ghosh_portfolio/static/media/fresh-burger.fa30b63abb55df242a65.png",
+    "static/media/Shushant-Ghosh-Resume.pdf": "/shushant_ghosh_portfolio/static/media/Shushant-Ghosh-Resume.a523fec2c7f0048361ad.pdf",
+    "static/media/sun.svg": "/shushant_ghosh_portfolio/static/media/sun.a986458e5595b4237f08ee312d301ff3.svg",
+    "static/media/github-dark.svg": "/shushant_ghosh_portfolio/static/media/github-dark.dd326b9d1397ddd12c766006b60b0a97.svg",
+    "static/media/github-light.svg": "/shushant_ghosh_portfolio/static/media/github-light.f4a3dde7429c7db2d098ebfdb4175701.svg",
+    "static/media/moon.svg": "/shushant_ghosh_portfolio/static/media/moon.e8ceccc7130ff6ac43ef85eedc8c3005.svg",
+    "index.html": "/shushant_ghosh_portfolio/index.html",
+    "static/media/linkedin-dark.svg": "/shushant_ghosh_portfolio/static/media/linkedin-dark.4849f84a7e76fde3e7508ef828cf6d7b.svg",
+    "static/media/linkedin-light.svg": "/shushant_ghosh_portfolio/static/media/linkedin-light.f52c806dae34fc7afae25af380bf8c66.svg",
+    "static/media/checkmark-dark.svg": "/shushant_ghosh_portfolio/static/media/checkmark-dark.1826eabf0e2181d2f2c88d7b72731149.svg",
+    "static/media/twitter-dark.svg": "/shushant_ghosh_portfolio/static/media/twitter-dark.c4236a95b1a54627edce47c20a871ef0.svg",
+    "static/media/twitter-light.svg": "/shushant_ghosh_portfolio/static/media/twitter-light.4cd529fb546a15c4ba25f77c75614f35.svg",
+    "main.1016f07c.css.map": "/shushant_ghosh_portfolio/static/css/main.1016f07c.css.map",
+    "main.b1db327e.js.map": "/shushant_ghosh_portfolio/static/js/main.b1db327e.js.map",
+    "453.47a4bfb9.chunk.js.map": "/shushant_ghosh_portfolio/static/js/453.47a4bfb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1016f07c.css",
+    "static/js/main.b1db327e.js"
+  ]
+}
