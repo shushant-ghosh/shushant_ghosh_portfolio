@@ -18,9 +18,17 @@
 .container a:hover{
     transform: scale(1.05);
 }
-.container .projectsContainer {
+.projectsContainer {
     display: flex;
     flex-direction: column;
     align-self: center;
     gap:30px
+}
+@media (width>=800px) {
+    .projectsContainer {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 0 30px;
+    }
 }

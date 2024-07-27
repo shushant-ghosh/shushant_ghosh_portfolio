@@ -8,7 +8,7 @@ import githubIconLight from "../../assets/github-light.svg";
 import githubIconDark from "../../assets/github-dark.svg";
 import linkedinIconLight from "../../assets/linkedin-light.svg";
 import linkedinIconDark from "../../assets/linkedin-dark.svg";
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/Shushant-Ghosh-Resume.pdf";
 import { useContext } from "react";
 import { ThemeProvider, useTheme } from "../../common/contexts/ThemeContext";
 
@@ -37,19 +37,19 @@ function Hero() {
         </h1>
         <h2>Frontend Developer</h2>
         <span>
-          <a href="#" target="_blank">
+          {/* <a href="#" target="_blank">
             <img
               src={theme === "light" ? twitterIconLight : twitterIconDark}
               alt="Twitter Icon"
             />
-          </a>
-          <a href="#" target="_blank">
+          </a> */}
+          <a href="https://github.com/shushant-ghosh" target="_blank">
             <img
               src={theme === "light" ? githubIconLight : githubIconDark}
               alt="Github Icon"
             />
           </a>
-          <a href="#" target="_blank">
+          <a href="https://www.linkedin.com/in/shushant-ghosh-a4b781197" target="_blank">
             <img
               src={theme === "light" ? linkedinIconLight : linkedinIconDark}
               alt="LinkedIn Icon"
