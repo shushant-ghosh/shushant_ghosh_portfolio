@@ -8,7 +8,7 @@ import githubIconLight from "../../assets/github-light.svg";
 import githubIconDark from "../../assets/github-dark.svg";
 import linkedinIconLight from "../../assets/linkedin-light.svg";
 import linkedinIconDark from "../../assets/linkedin-dark.svg";
-import CV from "../../assets/Shushant-Ghosh-Resume.pdf";
+import CV from "../../assets/Shushant_Ghosh_Resume.pdf";
 import { useContext } from "react";
 import { ThemeProvider, useTheme } from "../../common/contexts/ThemeContext";
 
